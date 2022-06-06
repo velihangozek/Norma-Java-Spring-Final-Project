@@ -67,6 +67,6 @@ Uygulama genelinde Spring Boot, Spring Rest ve JPA kullanılmalı, clean code ve
 
 ![Table-Diagram](velihan-gözek-norma-final-project/diagrams-and-urls/Table-Diagram.png)
 
-### API url
+### API urls
 
 ![API-urls](velihan-gözek-norma-final-project/diagrams-and-urls/API-urls.png)
