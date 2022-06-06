@@ -1,6 +1,3 @@
-# Norma-Java-Spring-Final-Project
-Norma Java Spring Final Project.
-
 # Norma Java Spring Bootcamp Bitirme Projesi
 
 Bu bitirme projesi kapsamında bootcamp katılımcılarının bir online bankacılık sisteminin backend servislerini yazmaları beklenmektedir. Proje kapsamında beklenen minimum fonksiyonlar ve teknik ihtiyaçlar aşağıda listelenmiştir.
@@ -68,8 +65,8 @@ Uygulama genelinde Spring Boot, Spring Rest ve JPA kullanılmalı, clean code ve
 
 ### Tablo Diyagramı
 
-[Table-Diagram](diagrams-and-urls/Table-Diagram.png)
+![Table-Diagram](diagrams-and-urls/Table-Diagram.png)
 
 ### API url
 
-[API-urls](diagrams-and-urls/API-urls.png)
+![API-urls](diagrams-and-urls/API-urls.png)
